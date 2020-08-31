@@ -1,1 +1,2 @@
 # Detection-of-type-the-cancer-type
+Classification and data mining methods are effective to classify the data. In a field such as medicine where a minor anomaly in the results will have major consequences, these methods are widely used to make decisions. Logistic regression can be used for a two-class problem like the cancer datasets chosen and an effective result can be obtained. It is used to predict whether the patient what type of cancer does the patient have, i.e. malignant or benign.
